@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,  I'm Rob Derycke<br><br>🌐  I’m a student student Web Development & Design<br>🔭 I’m currently working on Javascript & Web API<br>🌱 I’m currently learning Javascript<br>
+Hi,  I'm Rob Derycke<br><br>🌐  I’m a student student Web Development & Design<br>🔭 I’m currently working on Javascript & Web API<br>🌱 I’m currently learning Javascript & Web API<br>
 
 
 ## 🌐 Socials:
